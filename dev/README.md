@@ -1,3 +1,4 @@
 # Contribute your dev tricks and small projects here... 
 
 If you want to work on a predefined project add some new features on the website present in the main folder
+else just create a seperate folder and add your awesome projects
