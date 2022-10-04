@@ -179,5 +179,10 @@ Please discuss it with us first by creating a new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
-## Maintainer of this project👦🏻 :  [Find Me Here](https://www.linkedin.com/in/sanskarsrivastava/)
-## Author of this README file👦🏻 : [Find Me Here](https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/)
+## Our Contributors : 
+<a href="https://github.com/sanskarsri/Hacktoberfest22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sanskarsri/Hacktoberfest22" />
+</a>
+
+## Maintainer of this project:  [Sanskarsri](https://www.linkedin.com/in/sanskarsrivastava/)
+## Author of this README file: [Find Me Here](https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/)
