@@ -6,7 +6,7 @@
  
 ## Advantage of Spring Boot 
 
-- *iy
+-
 
 # Dependency Injection
 ## What is a bean?
